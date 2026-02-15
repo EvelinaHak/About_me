@@ -1,6 +1,6 @@
 <div align="center">
 
-### **SYSTEM ANALYSIS | DATA SCIENCE**
+### **SYSTEM ANALYSIS AND DATA SCIENCE**
 
 <div align="center">
 
